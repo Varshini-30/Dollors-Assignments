@@ -1,0 +1,11 @@
+.parent{
+    display: flex;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.log{
+    margin-left: 550px;
+}
